@@ -82,18 +82,6 @@ If you use this code or data in your research, please cite:
   howpublished = {\url{https://github.com/cyrilrobinson/finfet-gaa-ncfet-comparison}},
   doi          = {10.5281/zenodo.XXXXXXX}
 }
-```
-
-Also cite the companion paper (update with DOI after publication):
-```bibtex
-@article{Azariah2025Paper,
-  author  = {Azariah, Cyril Robinson J. and Rajath, R. and Prithvi, N. S.},
-  title   = {Material Characterization and Performance Comparison of {FinFET},
-             {GAA} Nanosheet {FET}, and Ferroelectric {NC-FET} with Advanced
-             Composite Channel Materials},
-  journal = {Journal of Computational Electronics},
-  year    = {2025},
-  doi     = {10.XXXX/XXXXXXX}
 }
 ```
 
