@@ -74,13 +74,12 @@ python FinFET_GAA_NCFET_Complete.py
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@misc{Azariah2025GitHub,
-  author       = {Azariah, Cyril Robinson J.},
+@misc{John Chelliah2026GitHub,
+  author       = {John CHelliah, Cyril Robinson Azariah},
   title        = {{FinFET--GAA--NCFET Comparison: Python Simulation Code and Data}},
-  year         = {2025},
+  year         = {2026},
   publisher    = {GitHub},
   howpublished = {\url{https://github.com/cyrilrobinson/finfet-gaa-ncfet-comparison}},
-  doi          = {10.5281/zenodo.XXXXXXX}
 }
 }
 ```
