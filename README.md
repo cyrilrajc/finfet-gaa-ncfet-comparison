@@ -79,7 +79,7 @@ If you use this code or data in your research, please cite:
   title        = {{FinFET--GAA--NCFET Comparison: Python Simulation Code and Data}},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/cyrilrobinson/finfet-gaa-ncfet-comparison}}
+  howpublished = {\url{https://github.com/cyrilrobinson/finfet-gaa-ncfet-comparison}},
   doi          = {https://doi.org/10.5281/zenodo.20522114},
 }
 ```
